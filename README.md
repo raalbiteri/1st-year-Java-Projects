@@ -1,5 +1,6 @@
 # 1st-year-Java-Projects
-Putting together a group of projects from this past school year at Milwaukee School of Engineering
+Putting together a group of projects from this past school year at Milwaukee School of Engineering. These projects were a culmination
+of what was learned in my first two quarters of Software Development alongside an in-depth look into Data Structures.
 
 #1) Guitar Synthesizer
 -This is a sample of a Guitar Synthesizer created on our fifth Data Structure Lab practicing with Queues. Really turned out to be an
