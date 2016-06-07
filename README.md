@@ -1,5 +1,5 @@
 # 1st-year-Java-Projects
-Putting together a group of projects from this past school year @ Milwaukee School of Engineering
+Putting together a group of projects from this past school year at Milwaukee School of Engineering
 
 #1) Guitar Synthesizer
 -This is a sample of a Guitar Synthesizer created on our fifth Data Structure Lab practicing with Queues. Really turned out to be an
